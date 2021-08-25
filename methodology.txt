@@ -1,2 +1,2 @@
 Start with creating the cell lines using Lee (1987)
-)
+Add solvent and stir 
