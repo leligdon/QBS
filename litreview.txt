@@ -1,0 +1,4 @@
+My research starts with a lit review.
+
+Smith and Jones (2020) said version control is useful.
+Johnson (2017) agreed.
